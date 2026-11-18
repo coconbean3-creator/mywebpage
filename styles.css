@@ -1,0 +1,29 @@
+BODY {
+font-family:Alef;
+background-color:lightblue;
+}
+h1 {
+ 	color:white;
+	text-align:center;
+}
+
+#pageTitle{
+Color:orange;
+text-align:center;
+background-color:chocolate;
+padding: 15px;
+}
+.section{
+		Background-color:grey;
+		border:2px white;
+		margin:20px;
+}
+.section h2 {
+	color:purple;
+	text-align:right;
+}
+p {
+ 	font-size:24px;
+	font-family:Papyrus;
+	color:lightyellow;
+}
